@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: ad, ads, adsense, advertising, affiliate, ad management
 Requires at least: 2.8
 Tested up to: 3.1.1
-Stable tag: 0.110410
+Stable tag: 0.120508
 
 Really Simple Ad Injection plugin will help you automatically inject any kind of ad code inside your post content.
 

@@ -1,14 +1,14 @@
 <?php
 /**
  * @package RSAI
- * @version 0.110410
+ * @version 0.120508
  */
 /*
 Plugin Name: Really Simple Ad Injection
-Plugin URI: http://exclusivewordpress.com/really-simple-ad-injection/
+Plugin URI: http://exclusivewp.com/really-simple-ad-injection/
 Author: Purwedi Kurniawan
-Author URI: http://exclusivewordpress.com
-Version: 0.110410
+Author URI: http://exclusivewp.com
+Version: 0.120508
 Description:  Really Simple Ad Injection plugin will help you automatically inject any kind of ad code inside your post content. <a href="options-general.php?page=rsai">Configure...</a>
 */
 /**
