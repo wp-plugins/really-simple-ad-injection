@@ -152,7 +152,7 @@ function pk_rsai_admin_print_admin_page(){
         <div class="inside">
           <div class="frame" style="text-align:center">
             <p><strong>Recommended SEO plugins: <a href="http://9cab9omg4qgd8r98wbjl1jucfe.hop.clickbank.net/?tid=alrp" target="_blank">Indexing Tool</a> | <a href="http://ed94dfjezefg9u0nhg0qgewkvu.hop.clickbank.net/?tid=alrp" target="_blank">SEOPressor</a> | <a href="http://5508coi61qlh0mco1k9jkcqk4z.hop.clickbank.net/?tid=alrp" target="_blank">WPSyndicator</a></strong></p>
-            <p>Copyright &copy; 2011 by Purwedi Kurniawan. Feel free to <a href="http://exclusivewordpress.com/contact/" target="_blank">contact me</a> if you need help with the plugin.</p>
+            <p>Copyright &copy; 2011 by Purwedi Kurniawan. Feel free to <a href="http://exclusivewp.com/contact/" target="_blank">contact me</a> if you need help with the plugin.</p>
           </div>
         </div>
       </div>
